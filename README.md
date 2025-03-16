@@ -2,7 +2,7 @@
 A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
 
 ## 💻 Stacks
-## ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB) 
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=visual-basic&logoColor=white)
@@ -13,7 +13,7 @@ A front-end developer who enjoys turning ideas into websites that are not only f
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PhantomJS](https://img.shields.io/badge/PhantomJS-2.1.1-2C3E50?style=flat-square&logo=phantomjs&logoColor=white)
 
-## ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
