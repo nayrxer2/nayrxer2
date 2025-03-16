@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Ryan Rex Gimotea
 A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight); 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 <!--
