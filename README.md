@@ -2,8 +2,7 @@
 A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
 
 ## 💻 Stacks
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" width="50" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" width="50" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" width="50" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" width="50" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="50" />
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=visual-basic&logoColor=white" width="50" />
 <img src="https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white" width="50" />
