@@ -5,8 +5,8 @@ A front-end developer who enjoys turning ideas into websites that are not only f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrxer2&show_icons=true&theme=tokyonight)
 
-## 🔗 Connect with Me:
-- 🙋 [LinkedIn](https://www.linkedin.com/in/ryan-gimotea)  |  ✉️ [Gmail](mailto:ryangimotea@gmail.com)
+## 📬 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/ryan-gimotea)  |  [Gmail](mailto:ryangimotea@gmail.com)
 <!--
 **nayrxer2/nayrxer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
