@@ -9,14 +9,14 @@ A front-end developer who enjoys turning ideas into websites that are not only f
 ![PHP](https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=flat-square&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP Web App](https://github.com/johndoe/php-web-app)
-![JS Frontend Interaction](https://github.com/johndoe/js-frontend) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PhantomJS](https://img.shields.io/badge/PhantomJS-2.1.1-2C3E50?style=flat-square&logo=phantomjs&logoColor=white)
 
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![PhantomJS](https://img.shields.io/badge/PhantomJS-2.1.1-2C3E50?style=flat-square&logo=phantomjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayrxer2&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
