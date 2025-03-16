@@ -2,7 +2,12 @@
 A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
 
 ## 💻 Stacks
-- ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB) 
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+## 🔨 Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayrxer2&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
 
