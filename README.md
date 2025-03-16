@@ -1,5 +1,6 @@
-## Hi there 👋
-I'm Ryan Rex Gimotea A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. I focus on clean, responsive design and smooth user experiences.
+## Hi there 👋I'm Ryan Rex Gimotea
+A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
+
 
 <!--
 **nayrxer2/nayrxer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
