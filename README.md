@@ -1,4 +1,4 @@
-## Hi there 👋I'm Ryan Rex Gimotea
+## Hi there 👋 I'm Ryan Rex Gimotea
 A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
 
 
