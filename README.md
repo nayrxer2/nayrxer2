@@ -18,7 +18,7 @@ A front-end developer who enjoys turning ideas into websites that are not only f
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/Figma-F32E1E?style=flat-square&logo=figma&logoColor=white" height="32" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayrxer2&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayrxer2&theme=tokyonight&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrxer2&show_icons=true&theme=tokyonight)
 
