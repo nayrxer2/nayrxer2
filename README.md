@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ryan Rex Gimotea 
-A front-end developer who enjoys turning ideas into websites that are not only functional but also easy on the eyes. 
+A front-end developer who turns ideas into beautiful, functional websites—and beats ugly UI into submission until it learns to behave. I make pixels behave, bugs fear for their lives, and designs look so good they question their life choices.
 
 ## 💻 Stacks
 
