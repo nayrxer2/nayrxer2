@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ryan Rex Gimotea 
-A front-end developer who turns ideas into beautiful, functional websites—and beats ugly UI into submission until it learns to behave. I make pixels behave, bugs fear for their lives, and designs look so good they question their life choices.
+I write TypeScript, weaponize Tailwind, and deploy Next.js applications. My hobbies include making pixels behave, murdering bugs, and asking myself why the CSS worked yesterday.
 
 ## 💻 Stacks
 
