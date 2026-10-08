@@ -19,7 +19,7 @@ I write TypeScript, weaponize Tailwind, and deploy Next.js applications. My hobb
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayrxer2&theme=tokyonight&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrxer2&show_icons=true&theme=tokyonight)
+![GitHub Stats]()
 
 ## 📬 Connect with Me:
 - [linkedIn](https://www.linkedin.com/in/ryan-gimotea)  |  [Gmail](mailto:ryangimotea@gmail.com)
