@@ -7,7 +7,6 @@ I write TypeScript, weaponize Tailwind, and deploy Next.js applications. My hobb
 <img src="https://img.shields.io/badge/Git-F07532?style=flat-square&logo=git&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=visual-basic&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="32" />
 
 <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="32" />
